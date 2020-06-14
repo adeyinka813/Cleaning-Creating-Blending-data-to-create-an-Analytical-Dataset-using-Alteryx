@@ -12,4 +12,4 @@ p2-wy-453910-naics-data.csv - NAICS data on the sales of all competitor stores w
 p2-wy-demographic-data.csv - This file contains demographic data for each city and county in Wyoming.
 taking care of null values and outliers, Formulating the needed columns and merging the data.
 
-Files used: Alteryx file included. A summary of Linear regression model included.
+Files Uploaded: Alteryx file included. A summary of Analytical dataset findings.
